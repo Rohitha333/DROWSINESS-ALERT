@@ -9,3 +9,8 @@ Designed end to end automated pipeline which includes following major building b
    2. State Detector-Detects the state using trained Deep Learning ML model.
 
    3. Alert Manager-Receives the response from state detector and broadcasts the necessary alerts as per level of seriousness.
+   
+   
+   Here is the link for the project DEMO
+   https://drive.google.com/file/d/1wNZ6YOlbmwdBTxsxjWdeA2RyMMlPizQV/view?usp=sharing
+   
